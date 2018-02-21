@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mExamResultsSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mExamResults[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return 4 when given List('a','b','c','d'),List('a','','','')[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return 0 when given List('a','b','c','d'),List('','','','')[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return 8 when given List('a','b','c','d'),List('a','b','','')[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return 1 when given List('a','b','c','d'),List('a','a','a','a')[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return 2 when given List('a','b','c','d'),List('a','a','a','')[0m[0m
